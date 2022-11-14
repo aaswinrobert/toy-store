@@ -1,0 +1,319 @@
+﻿
+@using MVC.Data.ViewModels
+
+@model ShoppingCartViewModel
+
+
+@{
+    ViewData["Title"] = "Shopping Cart";
+}
+
+
+ <div class="inner_page-banner one-img">
+      </div>
+      <!--//banner -->
+      <!-- short -->
+      <div class="using-border py-3">
+         <div class="inner_breadcrumb  ml-4">
+            <ul class="short_ls">
+               <li>
+                  <a >@Html.ActionLink("Home", "Index", "Home")</a>
+                  <span>/ /</span>
+               </li>
+               <li>CheckOut Page</li>
+            </ul>
+         </div>
+      </div>
+
+
+
+<section class="checkout py-lg-4 py-md-3 py-sm-3 py-3">
+            <div class="container py-lg-5 py-md-4 py-sm-4 py-3">
+               <div class="shop_inner_inf">
+                  <div class="privacy about">
+                     <div class="checkout-left">
+                        <div class="col-md-4 checkout-left-basket">
+                           <h4>Continue to basket</h4>
+
+                            
+
+                           <ul>
+                        @foreach (var item in Model.ShoppingCart.ShoppingCartItems)
+                        {
+                              <li>@item.Toys.ToyName <i></i> <span>@(item.Toys.ToyPrice*item.Amount) </span></li>
+                        }     
+                        @if( Model.ShoppingCartTotal >1)
+                        {
+                            <li>Total Service Charges <i>-</i> <span>55.00</span></li>
+                              <li>Total <i>-</i> <span> @(Model.ShoppingCartTotal+55)    </span></li>
+                        }
+                        else{
+                            <li>Total Service Charges <i>-</i> <span>0.00</span></li>
+                              <li>Total <i>-</i> <span>  ₹ 00.00    </span></li>
+                        }
+                              
+                           </ul>
+
+
+                        
+                        </div>
+
+
+                        @*
+                            This is for payment information
+                        *@
+
+
+
+
+
+
+
+
+
+                        <div class="col-md-8 address_form">
+                           
+                           <form action="payment.html" method="post" class="creditly-card-form agileinfo_form">
+                              <section class="creditly-wrapper wrapper">
+                                 <div class="information-wrapper">
+                                    <div class="first-row form-group">
+                                       <div class="controls">
+                                         
+                                          <input class="billing-address-name form-control" type="text" name="name" placeholder="Full name" required>
+                                       </div>
+                                       <div class="card_number_grids">
+                                          <div class="card_number_grid_left">
+                                             <div class="controls">
+                                                
+                                                <input class="form-control" type="text" placeholder="Mobile number" required>
+                                             </div>
+                                          </div>
+                                          <div class="card_number_grid_right">
+                                             <div class="controls">
+                                               
+                                                <input class="form-control" type="text" placeholder="Landmark" required>
+                                             </div>
+                                          </div>
+                                          <div class="clear"> </div>
+                                       </div>
+                                       <div class="controls">
+                                         
+                                          <input class="form-control" type="text" placeholder="Town/City" required>
+                                       </div>
+                                       <div class="controls">
+                                          
+                                          <select class="form-control option-w3ls" required>
+                                             <option>Office</option>
+                                             <option>Home</option>
+                                             <option>Commercial</option>
+                                          </select>
+                                       </div>
+                                    </div>
+                                    <button class="submit check_out" asp-controller="Payment" asp-action="index">Delivery to this Address</button>
+                                 </div>
+                              </section>
+                           </form>
+                           <div class="checkout-right-basket" style="position:center">
+                              <a asp-controller="Orders" asp-action="ShoppingCart">Back To Cart </a>
+                           </div>
+                        </div>
+                        <div class="clearfix"> </div>
+                        <div class="clearfix"></div>
+                     </div>
+                  </div>
+               </div>
+               <!-- //top products -->
+            </div>
+      </section>
+
+
+
+
+
+
+
+      @*
+
+    
+
+
+
+       <section class="checkout py-lg-4 py-md-3 py-sm-3 py-3">
+            <div class="container py-lg-5 py-md-4 py-sm-4 py-3">
+               <div class="shop_inner_inf">
+                  <div class="privacy about">
+                     <h3>Chec<span>kout</span></h3>
+                     <div class="checkout-right">
+                        <h4>Your shopping cart contains </h4>
+                        <table class="timetable_sub">
+                           <thead>
+                              <tr>
+                                 <th>P Id</th>
+                                 <th>Product Image</th>
+                                 <th>Quantity</th>
+                                 <th>Product Name</th>
+                                 <th>Price</th>    
+                                 <th>Remove</th>
+                              </tr>
+                           </thead>
+                        @foreach (var item in Model.ShoppingCart.ShoppingCartItems)
+                        {
+                             <tbody>
+                              <tr class="rem1">
+                                 <td class="invert">@item.Toys.Id</td>
+                                 <td class="invert-image"><a asp-action="Details" asp-route-id="@item.Toys.Id"><img src="@item.Toys.ToyImageURL" alt=" " class="img-responsive"></a></td>
+                                 <td class="invert">
+                                    <div class="quantity">
+                                       <div class="quantity-select">
+                                          <div class="entry value-minus">
+                                              <a class="text-danger" asp-controller="Orders" asp-action="RemoveItemFromShoppingCart"
+                                                    asp-route-id="@item.Toys.Id">
+                                                    <i class="bi bi-cart-dash">&nbsp;</i>
+                                              </a>                                            
+                                              </div>
+                                          <div class="entry value"><span>@item.Amount</span></div>
+
+                                          <div class="entry value-plus active">
+                                              <a class="text-success" asp-controller="Orders" asp-action="AddItemToShoppingCart"
+                                                asp-route-id="@item.Toys.Id">
+                                                <i class="bi bi-cart-plus">&nbsp;</i>
+                                              </a>
+                                              
+                                              </div>
+                                       </div>
+                                    </div>
+                                 </td>
+                                 <td class="invert">@item.Toys.ToyName</td>
+                                 <td class="invert">@item.Toys.ToyPrice.ToString("c") X @item.Amount </td>
+                                 <td class="invert">
+                                   
+                                       <div class="rem"><a class="text-danger" asp-controller="Orders" asp-action="RemoveItemFromShoppingCart"
+                                                    asp-route-id="@item.Toys.Id">
+                                                    
+                                              </a> </div>                                  
+                                 </td>
+                              </tr>                                                          
+                           </tbody>                          
+                        }
+                        </table>
+                     </div>                   
+                  </div>
+               </div>
+               <!-- //top products -->
+            </div>
+        </section>
+  
+<div class="text-center">
+            <div class="btn-group">
+                <a class="btn btn-outline-primary" asp-action="CompleteOrder" style=" border-radius: 50px 50px">
+                        Complete order
+                    </a>
+                <div id="paypal-btn"></div>
+                <span style="padding:5px"></span>
+                <a class="btn btn-outline-success" asp-controller="Toys" asp-action="Index" style=" border-radius: 50px 50px">
+                    Add more items
+                </a>
+            </div>
+ </div>
+
+
+   *@
+
+
+<!--js working-->
+      <script src='js/jquery-2.2.3.min.js'></script>
+      <!--//js working-->
+      <!-- cart-js -->	
+      <script src="js/minicart.js"></script>
+      <script>
+         toys.render();
+         
+         toys.cart.on('toys_checkout', function (evt) {
+         	var items, len, i;
+         
+         	if (this.subtotal() > 0) {
+         		items = this.items();
+         
+         		for (i = 0, len = items.length; i < len; i++) {}
+         	}
+         });
+      </script>
+      <!--// cart-js -->
+      <!--quantity-->
+      <script>
+         $('.value-plus').on('click', function () {
+         	var divUpd = $(this).parent().find('.value'),
+         		newVal = parseInt(divUpd.text(), 10) + 1;
+         	divUpd.text(newVal);
+         });
+         
+         $('.value-minus').on('click', function () {
+         	var divUpd = $(this).parent().find('.value'),
+         		newVal = parseInt(divUpd.text(), 10) - 1;
+         	if (newVal >= 1) divUpd.text(newVal);
+         });
+      </script>
+      <!--quantity-->
+      <!--closed-->
+      <script>
+         $(document).ready(function (c) {
+         	$('.close1').on('click', function (c) {
+         		$('.rem1').fadeOut('slow', function (c) {
+         			$('.rem1').remove();
+         		});
+         	});
+         });
+      </script>
+      <script>
+         $(document).ready(function (c) {
+         	$('.close2').on('click', function (c) {
+         		$('.rem2').fadeOut('slow', function (c) {
+         			$('.rem2').remove();
+         		});
+         	});
+         });
+      </script>
+      <script>
+         $(document).ready(function (c) {
+         	$('.close3').on('click', function (c) {
+         		$('.rem3').fadeOut('slow', function (c) {
+         			$('.rem3').remove();
+         		});
+         	});
+         });
+      </script>
+      <!--//closed-->
+      <!-- start-smoth-scrolling -->
+      <script src="js/move-top.js"></script>
+      <script src="js/easing.js"></script>
+      <script>
+         jQuery(document).ready(function ($) {
+         	$(".scroll").click(function (event) {
+         		event.preventDefault();
+         		$('html,body').animate({
+         			scrollTop: $(this.hash).offset().top
+         		}, 900);
+         	});
+         });
+      </script>
+      <!-- start-smoth-scrolling -->
+      <!-- here stars scrolling icon -->
+      <script>
+         $(document).ready(function () {
+         
+         	var defaults = {
+         		containerID: 'toTop', // fading element id
+         		containerHoverID: 'toTopHover', // fading element hover id
+         		scrollSpeed: 1200,
+         		easingType: 'linear'
+         	};
+         	$().UItoTop({
+         		easingType: 'easeOutQuart'
+         	});
+         
+         });
+      </script>
+      <!-- //here ends scrolling icon -->
+      <!--bootstrap working-->
+      <script src="js/bootstrap.min.js"></script>
+      <!-- //bootstrap working-->

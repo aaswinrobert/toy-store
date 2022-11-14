@@ -1,0 +1,109 @@
+﻿<!--Defining the model-->
+
+
+@model IEnumerable<Toys>
+<!--Defining the vie data-->
+
+@{
+    ViewData["Title"] = "Shop Now";
+    Layout = "~/Views/Toys/Shopnow_Layout.cshtml";
+}
+
+
+<!--main code-->
+
+
+<div class="row">
+    
+
+   
+@foreach (var item in Model)
+{
+    <div class="col-lg-4 col-md-6 col-sm-6 product-men women_two">
+                        <div class="product-toys-info">
+                           <div class="men-pro-item">
+                              <div class="men-thumb-item">
+                                 <img src="@item.ToyImageURL" alt="@item.ToyName" height="367" width="551" class="img-thumbnail">
+                                 <div class="men-cart-pro">
+                                    <div class="inner-men-cart-pro">
+                                       <a  class="link-product-add-cart" asp-action="Details" asp-route-id="@item.Id">Quick View</a>
+                                    </div>
+                                 </div>
+                                  @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+                                    {
+                                       <span > <a class="product-new-top" asp-action="Edit" asp-route-id="@item.Id">Update</a></span> 
+                                    }
+                                 
+                              </div>
+                              <div class="item-info-product">
+                                 <div class="info-product-price">
+                                    <div class="grid_meta">
+                                       <div class="product_price">
+                                          <h2>
+                                             <a class="link-product-add-cart" style:"background-color: white";   asp-action="Details" asp-route-id="@item.Id">@item.ToyName</a>
+                                             
+                                             <a class="link-product-add-cart" style:"background-color: white" asp-action="Details" asp-route-id="@item.Id">Category: @item.ToyCategory</a>
+                                            
+                                          </h2>
+                                          <div class="grid-price mt-2">
+                                             <span class="money ">@item.ToyPrice.ToString("c")</span>
+                                             <p>Availability: @item.Availability </p>
+                                          </div>
+                                          
+                                       </div>
+                                       <ul class="stars" style=" overflow:hidden;text-overflow:ellipsis">
+                                           @item.ToyDescription 
+                                       </ul>
+                                    </div>
+
+
+
+
+
+
+                                    <div class="toys single-item hvr-outline-out">
+                                       <form action="#" method="post">
+                                          
+                                          <button type="submit" class="toys-cart ptoys-cart"  asp-controller="Orders" asp-action="AddItemToShoppingCart" asp-route-id="@item.Id" >
+                                          <i class="fas fa-cart-plus"></i>
+                                          </button>
+                                       </form>
+                                    </div>
+
+
+                                 </div>
+                                 <div class="clearfix"></div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+    
+}
+ 
+</div>
+@await Html.PartialAsync("_PartialViewCreateItem", "Toys") 
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

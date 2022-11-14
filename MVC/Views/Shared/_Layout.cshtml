@@ -1,0 +1,146 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    <link rel="icon" href="~/Images/p4.jpg" type="image/x-icon" style="border-radius:5px"/>
+
+    <link href="~/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/css/checkout.css" rel="stylesheet" />
+    <link href="~/css/creditly.css" rel="stylesheet" />
+    <link href="~/css/easy-responsive-tabs.css" rel="stylesheet" />
+    <link href="~/css/flexslider.css" rel="stylesheet" />
+    <link href="~/css/fontawesome-all.min.css" rel="stylesheet" />
+    <link href="~/css/jquery-ui1.css" rel="stylesheet" />
+    <link href="~/css/Loginstyle.css" rel="stylesheet" />
+    <link href="~/css/shop.css" rel="stylesheet" />
+    <link href="~/css/style.css" rel="stylesheet" />
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+   
+    <script src="~/js/creditly.js"></script>
+    <script src="~/js/easing.js"></script>
+    <script src="~/js/easy-responsive-tabs.js"></script>
+    <script src="~/js/easyResponsiveTabs.js"></script>
+    <script src="~/js/imagezoom.js"></script>
+    <script src="~/js/jquery-2.2.3.min.js"></script>
+    <script src="~/js/jquery-ui.js"></script>
+    <script src="~/js/jquery.flexisel.js"></script>
+    <script src="~/js/jquery.flexslider.js"></script>
+    <script src="~/js/jquery.min.js"></script>
+    <script src="~/js/minicart.js"></script>
+    <script src="~/js/move-top.js"></script>
+    <script src="~/js/responsiveslides.min.js"></script>
+     <script src="~/js/bootstrap.min.js"></script>
+</head>
+<body>
+        <div>
+            <div class="header-outs" id="home">
+        <div class="header-bar">
+            <div class="container-fluid">
+                <div class="hedder-up row">
+                    <div class="col-lg-3 col-md-3 logo-head">
+                        <h1><a class="navbar-brand" href="index.html">@Html.ActionLink("Toys Shop", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })</a></h1>
+                    </div>
+                    <div class="col-lg-5 col-md-6 search-right">
+                        <form class="form-inline my-2 my-lg-0" asp-controller="Toys" asp-action="Filter">
+                        <input  name="searchString" type="text" class="form-control mr-sm-2" placeholder="Search">
+                        <button class="btn" type="submit" >Search</button>
+                        </form>
+                    </div>
+                    <div class="col-lg-4 col-md-3 right-side-cart" style="display: inline-block;">
+                         <div class="cart-icons">
+                            <ul>                                                             
+                                @await Component.InvokeAsync("ShoppingCartSummary")
+                                
+                                          
+                                
+                            </ul>
+                            <ul>
+                                 @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+                                        {
+                                        <li class="nav-item dropdown" >
+                                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="border-width: medium; border-color: green; border-radius: 50px 50px; font-family: 'Poor Richard'; font-size: large ">
+                                             <i class="bi bi-gear"></i> Management
+                                            </a>
+
+                                            <div class="dropdown-menu" aria-labelledby="navbarDropdown" style="border-width: medium; border-radius: 50px 50px; font-family: 'Poor Richard'; font-size: large ">
+
+                                            <a class="dropdown-item" asp-controller="Account" asp-action="Allusers" style="border-width: medium; border-radius: 50px 50px; font-family: 'Poor Richard'; font-size: large "><i class="bi bi-shop"></i>All Users</a>
+                                            <a class="dropdown-item" asp-controller="Orders" asp-action="Getallorder" style="border-width: medium; border-radius: 50px 50px; font-family: 'Poor Richard'; font-size: large "><i class="bi bi-shop"></i>All Orders</a>
+                                            </div>
+                                        </li> 
+                                        }
+                                
+                                    
+                                 <li style="display: inline-block;">
+                                     <partial name="~/Views/Shared/_Identity.cshtml" />
+                                 </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <nav class="navbar navbar-expand-lg navbar-light">
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
+                    <ul class="navbar-nav ">
+                        <li class="nav-item active">
+                            <a class="nav-link" > @Html.ActionLink("Home", "Index", "Home") <span class="sr-only">(current)</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link">@Html.ActionLink("About", "About", "Home")</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a  class="nav-link">@Html.ActionLink("Shop Now", "Index", "Toys")</a>
+                        </li>
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle"  id="navbarDropdown1" role="button" data-toggle="dropdown" >
+                                Product
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="nav-link "  asp-controller="Toys" asp-action="Filter">Peppa Pig</a>
+                                <a class="nav-link " asp-controller="Toys" asp-action="Filter">Barbie</a>
+                                <a class="nav-link " asp-controller="Toys" asp-action="Filter">Paw Patrol</a>
+                                <a class="nav-link " asp-controller="Toys" asp-action="Filter">Mickey Mouse</a>
+                                <a class="nav-link " asp-controller="Toys" asp-action="Filter">Disney Princess</a>
+                                <a class="nav-link " asp-controller="Toys" asp-action="Filter">Harry Potter</a>
+                                <a class="nav-link " asp-controller="Toys" asp-action="Filter">Transformers</a>
+                                <a class="nav-link " asp-controller="Toys" asp-action="Filter">Spiderman</a>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <a href="contact.html" class="nav-link">@Html.ActionLink("Contact", "Contact", "Home")</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+           </div>
+        </div>
+            @RenderBody()
+            <hr />
+        </div>
+        @RenderSection("scripts", required:false )
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,645 @@
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\appsettings.Development.json
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\appsettings.json
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\WebAPI.exe
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\WebAPI.deps.json
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.json
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.dev.json
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\WebAPI.dll
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\ref\WebAPI.dll
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\WebAPI.pdb
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\Humanizer.dll
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Z:\Final Project\Final1\MVC\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Z:\Final Project\Final1\MVC\WebAPI\obj\Debug\net5.0\WebAPI.csproj.AssemblyReference.cache
+Z:\Final Project\Final1\MVC\WebAPI\obj\Debug\net5.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Final Project\Final1\MVC\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfoInputs.cache
+Z:\Final Project\Final1\MVC\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfo.cs
+Z:\Final Project\Final1\MVC\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CoreCompileInputs.cache
+Z:\Final Project\Final1\MVC\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+Z:\Final Project\Final1\MVC\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+Z:\Final Project\Final1\MVC\WebAPI\obj\Debug\net5.0\scopedcss\bundle\WebAPI.styles.css
+Z:\Final Project\Final1\MVC\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+Z:\Final Project\Final1\MVC\WebAPI\obj\Debug\net5.0\WebAPI.RazorTargetAssemblyInfo.cache
+Z:\Final Project\Final1\MVC\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CopyComplete
+Z:\Final Project\Final1\MVC\WebAPI\obj\Debug\net5.0\WebAPI.dll
+Z:\Final Project\Final1\MVC\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
+Z:\Final Project\Final1\MVC\WebAPI\obj\Debug\net5.0\WebAPI.pdb
+Z:\Final Project\Final1\MVC\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\appsettings.Development.json
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\appsettings.json
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\WebAPI.exe
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\WebAPI.deps.json
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.json
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.dev.json
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\WebAPI.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\ref\WebAPI.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\WebAPI.pdb
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\Humanizer.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\obj\Debug\net5.0\WebAPI.csproj.AssemblyReference.cache
+Z:\Final Project\Final1\ToyStore\WebAPI\obj\Debug\net5.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Final Project\Final1\ToyStore\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfoInputs.cache
+Z:\Final Project\Final1\ToyStore\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfo.cs
+Z:\Final Project\Final1\ToyStore\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CoreCompileInputs.cache
+Z:\Final Project\Final1\ToyStore\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+Z:\Final Project\Final1\ToyStore\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+Z:\Final Project\Final1\ToyStore\WebAPI\obj\Debug\net5.0\scopedcss\bundle\WebAPI.styles.css
+Z:\Final Project\Final1\ToyStore\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+Z:\Final Project\Final1\ToyStore\WebAPI\obj\Debug\net5.0\WebAPI.RazorTargetAssemblyInfo.cache
+Z:\Final Project\Final1\ToyStore\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CopyComplete
+Z:\Final Project\Final1\ToyStore\WebAPI\obj\Debug\net5.0\WebAPI.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\obj\Debug\net5.0\WebAPI.pdb
+Z:\Final Project\Final1\ToyStore\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\System.Composition.Convention.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\System.Composition.Hosting.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\System.Composition.Runtime.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+Z:\Final Project\Final1\ToyStore\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\WebAPI.exe
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\WebAPI.deps.json
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.json
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.dev.json
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\WebAPI.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\ref\WebAPI.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\WebAPI.pdb
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\obj\Debug\net5.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\obj\Debug\net5.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfo.cs
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\obj\Debug\net5.0\scopedcss\bundle\WebAPI.styles.css
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\obj\Debug\net5.0\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CopyComplete
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\obj\Debug\net5.0\WebAPI.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\obj\Debug\net5.0\WebAPI.pdb
+C:\Users\govin\Desktop\ToyStore\Project\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\appsettings.json
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\WebAPI.exe
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\WebAPI.deps.json
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.json
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.dev.json
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\WebAPI.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\WebAPI.pdb
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\Humanizer.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\obj\Debug\net5.0\WebAPI.csproj.AssemblyReference.cache
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\obj\Debug\net5.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfoInputs.cache
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfo.cs
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CoreCompileInputs.cache
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\obj\Debug\net5.0\scopedcss\bundle\WebAPI.styles.css
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\obj\Debug\net5.0\WebAPI.RazorTargetAssemblyInfo.cache
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CopyComplete
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\obj\Debug\net5.0\WebAPI.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\obj\Debug\net5.0\refint\WebAPI.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\obj\Debug\net5.0\WebAPI.pdb
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\JetBrains.Annotations.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\X.PagedList.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\Razorpay.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\WebAPI.Views.dll
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\bin\Debug\net5.0\WebAPI.Views.pdb
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\obj\Debug\net5.0\WebAPI.RazorAssemblyInfo.cache
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\obj\Debug\net5.0\WebAPI.RazorAssemblyInfo.cs
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\obj\Debug\net5.0\WebAPI.TagHelpers.input.cache
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\obj\Debug\net5.0\WebAPI.TagHelpers.output.cache
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\obj\Debug\net5.0\WebAPI.RazorCoreGenerate.cache
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\obj\Debug\net5.0\Razor\Views\Users\Create.cshtml.g.cs
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\obj\Debug\net5.0\Razor\Views\Users\Delete.cshtml.g.cs
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\obj\Debug\net5.0\Razor\Views\Users\Details.cshtml.g.cs
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\obj\Debug\net5.0\WebAPI.RazorTargetAssemblyInfo.cs
+D:\Wipro Project\Capstone Project Group- G5\Project\WebAPI\obj\Debug\net5.0\WebAPI.Views.pdb
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\appsettings.Development.json
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\appsettings.json
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\WebAPI.exe
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\WebAPI.deps.json
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.json
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.dev.json
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\WebAPI.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\ref\WebAPI.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\WebAPI.pdb
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\WebAPI.Views.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\WebAPI.Views.pdb
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\Humanizer.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\JetBrains.Annotations.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\Razorpay.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\X.PagedList.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\obj\Debug\net5.0\WebAPI.csproj.AssemblyReference.cache
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\obj\Debug\net5.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfoInputs.cache
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfo.cs
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CoreCompileInputs.cache
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\obj\Debug\net5.0\WebAPI.RazorAssemblyInfo.cache
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\obj\Debug\net5.0\WebAPI.RazorAssemblyInfo.cs
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.xml
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\obj\Debug\net5.0\scopedcss\bundle\WebAPI.styles.css
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\obj\Debug\net5.0\WebAPI.TagHelpers.input.cache
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\obj\Debug\net5.0\WebAPI.TagHelpers.output.cache
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\obj\Debug\net5.0\WebAPI.RazorCoreGenerate.cache
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\obj\Debug\net5.0\Razor\Views\Users\Create.cshtml.g.cs
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\obj\Debug\net5.0\Razor\Views\Users\Delete.cshtml.g.cs
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\obj\Debug\net5.0\Razor\Views\Users\Details.cshtml.g.cs
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\obj\Debug\net5.0\WebAPI.RazorTargetAssemblyInfo.cache
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\obj\Debug\net5.0\WebAPI.RazorTargetAssemblyInfo.cs
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\obj\Debug\net5.0\WebAPI.Views.pdb
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CopyComplete
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\obj\Debug\net5.0\WebAPI.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\obj\Debug\net5.0\WebAPI.pdb
+E:\CompleteProject ToyShop Code B-G1\Project\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache

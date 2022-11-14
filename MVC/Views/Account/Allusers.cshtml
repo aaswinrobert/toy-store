@@ -1,0 +1,106 @@
+﻿@using MVC.Models;
+
+@model IEnumerable<ApplicationUser>
+@using System.Globalization
+
+
+@using Microsoft.AspNetCore.Identity
+@inject UserManager<ApplicationUser> UserManager;
+
+
+@{
+    ViewData["Title"] = "All orders";
+}
+
+
+ <div class="inner_page-banner one-img">
+      </div>
+      <!--//banner -->
+      <!-- short -->
+      <div class="using-border py-3">
+         <div class="inner_breadcrumb  ml-4">
+            <ul class="short_ls">
+               <li>
+                  <a >@Html.ActionLink("Home", "Index", "Home")</a>
+                  <span>/ /</span>
+               </li>
+               <li></li>
+            </ul>
+         </div>
+      </div>
+
+
+
+<div class="row">
+    <div class="col-md-8 offset-2">
+        <p>
+            <h4>List of All Users</h4>
+        </p>
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>User ID</th>
+                    <th>Full Name</th>
+                    <th>Email Address</th>
+                    <th>UserName</th>
+                </tr>
+            </thead>
+            <tbody>
+            
+
+               
+        
+                 @foreach (var item in Model)
+                {
+                    <tr>
+                        <td class="align-middle">@item.Id</td>
+                        <td class="align-middle">
+                            <ul style="list-style-type:none">
+                                
+                                
+                                    <li>
+                                        <div class="alert alert-info" role="alert">
+                                            @item.FullName  
+                                        </div>
+                                    </li>
+                                
+                            </ul>
+                        </td>
+                        <td class="align-middle">
+                            @item.Email
+                        </td>
+                        <td class="align-middle"> @item.UserName </td>
+                    </tr>
+                }   
+            
+                
+                
+           
+            
+                
+            </tbody>
+        </table>
+
+    </div>
+</div>
+
+
+
+
+@*
+<div class="col-md-4 checkout-left-basket">
+                           <h4>Continue to basket</h4>
+                           <ul>
+                              <li>@item.Toys.ToyName <i>-</i> <span>@((item.Amount*item.Toys.ToyPrice).ToString("c"))</span></li>
+                              
+                              <li>Total Service Charges <i>-</i> <span> ₹ 50.00</span></li>
+                              <li>Total <i>-</i> <span> (@Model.ShoppingCartTotal.ToString("c")+55)</span></li>
+                           </ul>
+                        </div>
+
+
+
+
+*@
+

@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewData["Title"] = "New Account Created";
+    Layout="~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+ <div class="inner_page-banner one-img">
+      </div>
+      <!--//banner -->
+      <!-- short -->
+      <div class="using-border py-3">
+         <div class="inner_breadcrumb  ml-4">
+            <ul class="short_ls">
+               <li>
+                  <a >@Html.ActionLink("Home", "Index", "Home")</a>
+                  <span>/ /</span>
+               </li>
+               <li>...</li>
+            </ul>
+         </div>
+      </div>
+<div class="row">
+    <div class="col-md-8 offset-2 alert alert-success text-center">
+        <h2>Account created succesfully</h2>
+        <p>   <a >@Html.ActionLink("Login", "Login", "Account")</a> to your account using username and password</p>
+        <hr />
+        <p>Thanks.</p>
+    </div>
+</div>

@@ -1,0 +1,123 @@
+﻿@model List<Order>
+@using System.Globalization
+
+
+@using Microsoft.AspNetCore.Identity
+@inject UserManager<ApplicationUser> UserManager;
+
+
+@{
+    ViewData["Title"] = "All orders";
+}
+
+
+ <div class="inner_page-banner one-img">
+      </div>
+      <!--//banner -->
+      <!-- short -->
+      <div class="using-border py-3">
+         <div class="inner_breadcrumb  ml-4">
+            <ul class="short_ls">
+               <li>
+                  <a >@Html.ActionLink("Home", "Index", "Home")</a>
+                  <span>/ /</span>
+               </li>
+               <li>Orders</li>
+            </ul>
+         </div>
+      </div>
+
+
+
+<div class="row">
+    <div class="col-md-8 offset-2">
+        <p>
+            <h4>List of All Orders</h4>
+        </p>
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Order ID</th>
+                    <th>Items</th>
+                    <th>Total</th>
+                    <th>User</th>
+                </tr>
+            </thead>
+            <tbody>
+            @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+            {
+                 @foreach (var order in Model)
+                {
+                    <tr>
+                        <td class="align-middle">@order.Id</td>
+                        <td class="align-middle">
+                            <ul style="list-style-type:none">
+                                @foreach (var item in order.OrderItems)
+                                {
+                                    <li>
+                                        <div class="alert alert-info" role="alert">
+                                            <span class="badge bg-success">@item.Amount</span> [@item.Price.ToString("c")] - @item.ToyID 
+                                        </div>
+                                    </li>
+                                }
+                            </ul>
+                        </td>
+                        <td class="align-middle">
+                            @order.OrderItems.Select(m => m.Price * m.Amount).Sum().ToString("C", CultureInfo.CreateSpecificCulture("en-IN"))
+                        </td>
+                        <td class="align-middle"> @UserManager.GetUserName(User) </td>
+                    </tr>
+                }   
+            }
+                else
+                {
+                    @foreach (var order in Model)
+                {
+                    <tr>
+                        <td class="align-middle">@order.Id</td>
+                        <td class="align-middle">
+                            <ul style="list-style-type:none">
+                                @foreach (var item in order.OrderItems)
+                                {
+                                    <li>
+                                        <div class="alert alert-info" role="alert">
+                                            <span class="badge bg-success">@item.Amount</span> [@item.Price.ToString("c")] - @item.ToyID   
+                                        </div>
+                                    </li>
+                                }
+                            </ul>
+                        </td>
+                        <td class="align-middle">
+                            @order.OrderItems.Select(m => m.Price * m.Amount).Sum().ToString("C", CultureInfo.CreateSpecificCulture("en-IN"))
+                        </td>
+                        <td class="align-middle"> @UserManager.GetUserName(User) </td>
+                    </tr>
+                }
+                }
+                
+            </tbody>
+        </table>
+
+    </div>
+</div>
+
+
+
+
+@*
+<div class="col-md-4 checkout-left-basket">
+                           <h4>Continue to basket</h4>
+                           <ul>
+                              <li>@item.Toys.ToyName <i>-</i> <span>@((item.Amount*item.Toys.ToyPrice).ToString("c"))</span></li>
+                              
+                              <li>Total Service Charges <i>-</i> <span> ₹ 50.00</span></li>
+                              <li>Total <i>-</i> <span> (@Model.ShoppingCartTotal.ToString("c")+55)</span></li>
+                           </ul>
+                        </div>
+
+
+
+
+*@
+
